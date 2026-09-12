@@ -20,5 +20,6 @@ Languages: Portuguese (Native) | English (A2/B1 - Daily Practice).
 🎮 Roblox Studio Experiments: Code architecture using TweenService, custom PopUp effects, and Photoshop-designed GUIs (Lua).
 🌐 Front-End & Creative Coding: Interactive web mechanics, CSS animations, and UI experiments.
 
-![Lucas's GitHub Stats](https://vercel.app)
+[![Lucas's GitHub Stats](https://vercel.app)](https://github.com)
+
 ---
