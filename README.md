@@ -5,10 +5,18 @@ I'm a 17-year-old High School student from Jaú, Brazil, preparing for the USP/F
 Right now, I'm deeply focused on building a solid foundation in Computer Science and English to achieve my ultimate goal: AI Engineering and Software Development.
 
 ---
+### 🛠️ Technologies & Languages
+**🟢 Intermediate (Comfortable building things):**
+- Lua (Roblox Studio, scripting, TweenService)
+- UI/UX Design (Photoshop, Canva, After Effects)
+
+**🟡 Learning / Academic Focus (Current Studies):**
+- Python (Basics, scripts, automation)
+- C Language (Data types, memory management via Harvard's CS50x)
+- Front-End Basics (HTML5, CSS3 with Custom Animations, JavaScript)
 
 🧠 My Learning Stack & Skills-
 Computer Science: Currently taking Harvard's CS50x 2026 🎓
-Programming Languages: Lua (Roblox Dev), Python, and Front-End basics (HTML5, CSS3 with Custom Animations, JavaScript).
 Creative & UI/UX Tools: DaVinci Resolve, Adobe After Effects, Adobe Photoshop, and Canva.
 Study Methodologies: Mind Palaces (Method of Loci) and Active Recall.
 Languages: Portuguese (Native) | English (A2/B1 - Daily Practice).
