@@ -1,6 +1,6 @@
 
 Hi, I'm Lucas De Assis Boaretto! 🇧🇷 ✈️
-I'm a 17-year-old High School student from Jaú, Brazil, preparing for the USP/Fatec entrance exams. Since I was a kid, I've been fascinated by how things work, leading me to explore video editing, UI design, and coding. 
+I'm a 17-year-old High School student from São-Paulo, Brazil, preparing for the USP/Fatec entrance exams. Since I was a kid, I've been fascinated by how things work, leading me to explore video editing, UI design, and coding. 
 -
 Right now, I'm deeply focused on building a solid foundation in Computer Science and English to achieve my ultimate goal: AI Engineering and Software Development.
 
